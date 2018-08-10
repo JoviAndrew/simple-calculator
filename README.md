@@ -1,2 +1,2 @@
 # simple-calculator
-Simple react native calculator mobile app
+Simple react native practice creating calculator app
